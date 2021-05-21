@@ -1,0 +1,5 @@
+rootProject.name = "DataBindingIssueApp"
+include ':app'
+include ':ui'
+include ':ui:uiApp'
+include ':ui:uiImpl'
